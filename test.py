@@ -1,5 +1,4 @@
-import operator
-def descending_words():
+ing_words():
 entries = []
 with open ('book1.txt', 'r') as f:
     for line in f:
